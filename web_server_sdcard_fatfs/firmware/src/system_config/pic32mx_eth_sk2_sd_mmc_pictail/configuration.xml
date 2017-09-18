@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<configuration version="1.0.10.0">
+<configuration version="1.0.11.0">
   <DisplayManager>
     <SystemInitScript/>
     <SystemStartScript/>
@@ -1481,7 +1481,7 @@
       <Template>
         <Name>system_config.h</Name>
         <Path>Header Files/app/system_config/pic32mx_eth_sk2_sd_mmc_pictail</Path>
-        <Checksum>B6601917F9C22803F70C26578B5C67D8</Checksum>
+        <Checksum>B09D55260889E7CADF8668D13BE1E222</Checksum>
       </Template>
       <Template>
         <Name>app.h</Name>
@@ -1525,11 +1525,11 @@
     </Templates>
     <CompilerItems>
       <C32>
-        <Include value="E:\Harmony_withGit\rel_1.09\net_rel\net\apps\tcpip\web_server_sdcard_fatfs\firmware\src"/>
-        <Include value="E:\Harmony_withGit\rel_1.09\net_rel\net\apps\tcpip\web_server_sdcard_fatfs\firmware\src\system_config\pic32mx_eth_sk2_sd_mmc_pictail"/>
-        <Include value="E:\Harmony_withGit\rel_1.09\net_rel\net\apps\tcpip\web_server_sdcard_fatfs\firmware\src\pic32mx_eth_sk2_sd_mmc_pictail"/>
-        <Include value="E:\Harmony_withGit\rel_1.09\net_rel\net\framework"/>
-        <Include value="E:\Harmony_withGit\rel_1.09\net_rel\net\apps\tcpip\web_server_sdcard_fatfs\firmware\src\system_config\pic32mx_eth_sk2_sd_mmc_pictail\framework"/>
+        <Include value="C:\microchip\harmony\v1_11\apps\harmony_tcpip\web_server_sdcard_fatfs\firmware\src"/>
+        <Include value="C:\microchip\harmony\v1_11\apps\harmony_tcpip\web_server_sdcard_fatfs\firmware\src\system_config\pic32mx_eth_sk2_sd_mmc_pictail"/>
+        <Include value="C:\microchip\harmony\v1_11\apps\harmony_tcpip\web_server_sdcard_fatfs\firmware\src\pic32mx_eth_sk2_sd_mmc_pictail"/>
+        <Include value="C:\microchip\harmony\v1_11\framework"/>
+        <Include value="C:\microchip\harmony\v1_11\apps\harmony_tcpip\web_server_sdcard_fatfs\firmware\src\system_config\pic32mx_eth_sk2_sd_mmc_pictail\framework"/>
         <Include value="../../../../../bsp/pic32mx_eth_sk2"/>
       </C32>
     </CompilerItems>

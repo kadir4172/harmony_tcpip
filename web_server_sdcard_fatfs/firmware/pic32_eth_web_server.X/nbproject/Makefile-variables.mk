@@ -1,0 +1,20 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# pic32mx_eth_sk2_sd_mmc_pictail configuration
+CND_ARTIFACT_DIR_pic32mx_eth_sk2_sd_mmc_pictail=dist/pic32mx_eth_sk2_sd_mmc_pictail/production
+CND_ARTIFACT_NAME_pic32mx_eth_sk2_sd_mmc_pictail=pic32_eth_web_server.X.production.hex
+CND_ARTIFACT_PATH_pic32mx_eth_sk2_sd_mmc_pictail=dist/pic32mx_eth_sk2_sd_mmc_pictail/production/pic32_eth_web_server.X.production.hex
+CND_PACKAGE_DIR_pic32mx_eth_sk2_sd_mmc_pictail=${CND_DISTDIR}/pic32mx_eth_sk2_sd_mmc_pictail/package
+CND_PACKAGE_NAME_pic32mx_eth_sk2_sd_mmc_pictail=pic32ethwebserver.x.tar
+CND_PACKAGE_PATH_pic32mx_eth_sk2_sd_mmc_pictail=${CND_DISTDIR}/pic32mx_eth_sk2_sd_mmc_pictail/package/pic32ethwebserver.x.tar
+# pic32mz_ef_sk_meb2 configuration
+CND_ARTIFACT_DIR_pic32mz_ef_sk_meb2=dist/pic32mz_ef_sk_meb2/production
+CND_ARTIFACT_NAME_pic32mz_ef_sk_meb2=pic32_eth_web_server.X.production.hex
+CND_ARTIFACT_PATH_pic32mz_ef_sk_meb2=dist/pic32mz_ef_sk_meb2/production/pic32_eth_web_server.X.production.hex
+CND_PACKAGE_DIR_pic32mz_ef_sk_meb2=${CND_DISTDIR}/pic32mz_ef_sk_meb2/package
+CND_PACKAGE_NAME_pic32mz_ef_sk_meb2=pic32ethwebserver.x.tar
+CND_PACKAGE_PATH_pic32mz_ef_sk_meb2=${CND_DISTDIR}/pic32mz_ef_sk_meb2/package/pic32ethwebserver.x.tar
